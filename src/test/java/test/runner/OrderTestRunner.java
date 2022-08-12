@@ -1,12 +1,10 @@
-package TestRunner;
+package test.runner;
 
-import Base.Setup;
-import Pages.OrderPage;
+import base.Setup;
+import pages.OrderPage;
 import io.qameta.allure.Allure;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import javax.xml.ws.soap.Addressing;
 
 public class OrderTestRunner extends Setup {
     OrderPage orderPage;

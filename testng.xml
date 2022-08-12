@@ -2,17 +2,17 @@
 
 <!--    <test name="E-commerce portal signup">-->
 <!--        <classes>-->
-<!--            <class name="TestRunner.SignupTestRunner"/>-->
+<!--            <class name="SignupTestRunner"/>-->
 <!--        </classes>-->
 <!--    </test>-->
     <test name="E-commerce portal login">
         <classes>
-            <class name="TestRunner.LoginTestRunner"/>
+            <class name="LoginTestRunner"/>
         </classes>
     </test>
     <test name="E-commerce portal order">
         <classes>
-            <class name="TestRunner.OrderTestRunner"/>
+            <class name="OrderTestRunner"/>
         </classes>
     </test>
 </suite>

@@ -1,9 +1,9 @@
-package TestRunner;
+package test.runner;
 
-import Base.Setup;
-import Pages.LoginPage;
-import Pages.SignupPage;
-import Utils.Utils;
+import base.Setup;
+import pages.LoginPage;
+import pages.SignupPage;
+import utils.Utils;
 import org.json.simple.parser.ParseException;
 import org.testng.annotations.Test;
 
